@@ -1,0 +1,5 @@
+n1 = str(input('Insira um numero: '))
+print(f'unidade: {n1[3]}')
+print(f'dezena: {n1[2]}')
+print(f'centena: {n1[1]}')
+print(f'milhar: {n1[0]}')
